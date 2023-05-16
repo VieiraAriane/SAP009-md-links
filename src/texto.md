@@ -1,18 +1,17 @@
 [Chrome](https://developers.google.com/v8/). Ele vai nos permitir executar o
 JavaScript no nosso sistema operacional, seja no seu computador ou em um
 servidor, o que nos abre portas para poder interagir com sistemas, arquivos,
-redes e etc. 
+redes e etc.
 [Chrome](https://developers.google.com/v8/). Ele vai nos permitir executar o
 JavaScript no nosso sistema operacional, seja no seu computador ou em um
 servidor, o que nos abre portas para poder interagir com sistemas, arquivos,
-redes e etc. 
-construído com o [motor de JavaScript V8 do
-Chrome](https://www.example.com/non-existent-page). Ele vai nos permitir executar o
+redes e etc.
+construído com o [motor de JavaScript V8](https://www.example.com/non-existent-page). Ele vai nos permitir executar o
 JavaScript no nosso sistema operacional, seja no seu computador ou em um
 servidor, o que nos abre portas para poder interagir com sistemas, arquivos,
 redes e etc.
 ./some/example.md http://algo.com/2/3/ ok 200 Link de algo
- 
+
 [Node.js](https://nodejs.org/), que leia e analise arquivos no formato
 ./some/example.md https://outra-coisa-.net/algum-doc.html fail 404 algum doc
 `Markdown`, para verificar os arquivos que contenham links e mostrar algumas
